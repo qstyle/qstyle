@@ -69,19 +69,6 @@
 **[`resume`](https://github.com/qstyle/resume)** — анимированное онлайн-резюме → [resume-dmitry-ordin.vercel.app](https://resume-dmitry-ordin.vercel.app)
 > Next.js · WebGL-шейдер (Mesh drift) · sticky-стек карточек · GSAP + Lenis · адаптив.
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qstyle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=0EA5E9&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstyle&layout=compact&langs_count=8&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="top-langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qstyle&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=0EA5E9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-
-</div>
-
 ---
 
 <div align="center">
